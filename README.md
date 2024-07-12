@@ -1,16 +1,17 @@
-## Hi there 👋
+</br>
+<h1 align="center"><b>Welcome to Digambar Waghmare's profile! </b><img src="https://media.giphy.com/media/d91mOUkiBnKjgMhjBp/giphy.gif" width="35"></h1>
+</br>
 
-<!--
-**D1g4-D3s1gn3r/D1g4-D3s1gn3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/F745H/"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechanical+Design+Engineer,;Critical+Thinker,;Anlytical+Trader,;Active+Learner/Researcher+:)"></a>
+</p>
 
-Here are some ideas to get you started:
+## **About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m [D1g4-D3s1gn3r](https://github.com/D1g4-D3s1gn3r/)
+- 👀 I’m a Mechanical Design Engineer.
+- 💞️ I’m looking to collaborate with Mechanical Design & Development Projects.
+- 📫 How to reach me .. By my LinkedIn [Profile](https://www.linkedin.com/in/digambar-waghmare-472544245).
+- 🖥️ Visit my [website](https://D1g4-D3s1gn3r.github.io/)
+- Every day, I am dedicated to enhance my skills by learning new technologies to become 1% better than past my self.
+___
