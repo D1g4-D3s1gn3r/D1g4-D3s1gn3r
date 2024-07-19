@@ -15,3 +15,6 @@
 - 🖥️ Visit my [website](https://D1g4-D3s1gn3r.github.io/)
 - Every day, I am dedicated to enhance my skills by learning new technologies to become 1% better than past my self.
 ___
+
+
+![](https://komarev.com/ghpvc/?username=d1gambar&color=orange)
